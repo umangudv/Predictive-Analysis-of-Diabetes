@@ -14,3 +14,5 @@ Impact:
 Enhanced predictive accuracy for diabetes management, aiding in early intervention and treatment. 
 Identified critical factors affecting hospital readmissions, providing evidence-based recommendations for improving patient outcomes and reducing healthcare costs. 
 Demonstrated the utility of advanced data imputation and analysis techniques in a healthcare setting, highlighting the importance of continuous monitoring and proactive management of diabetic patients.
+
+Link to predictor - https://predictive-analysis-of-diabetes-umangudv.streamlit.app/
